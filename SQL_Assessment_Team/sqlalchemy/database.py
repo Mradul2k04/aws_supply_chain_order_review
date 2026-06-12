@@ -2,7 +2,7 @@ import os
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-DATABASE_URL = "postgresql://postgres:Mradulk@123@localhost:5432/aws_supply_chain"
+DATABASE_URL = "postgresql://postgres:Mradul123@localhost:5432/supply_chain_db"
 
 engine = create_engine(DATABASE_URL, pool_pre_ping=True,pool_size=10,max_overflow=20)
 
