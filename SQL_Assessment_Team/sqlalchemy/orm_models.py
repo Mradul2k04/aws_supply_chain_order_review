@@ -1,6 +1,6 @@
 import datetime
 from sqlalchemy import Column, String, Integer, DateTime, Date, ForeignKey, CheckConstraint
-from SQL_Assessment_Team.sqlalchemy.database import Base
+from database import Base
 
 class Customer(Base):
     __tablename__ = 'customers'

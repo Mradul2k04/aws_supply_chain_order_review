@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Session
-from SQL_Assessment_Team.sqlalchemy.orm_models import  Customer, Product, Supplier, Order, Shipment
+from orm_models import  Customer, Product, Supplier, Order, Shipment
 
 # Customer 
 
