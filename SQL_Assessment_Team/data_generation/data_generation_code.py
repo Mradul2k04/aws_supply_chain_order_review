@@ -11,7 +11,7 @@ num_records = 156
 
 
 #customer file generaton
-customer_file_path = r"data_generation\cus_data.csv"
+customer_file_path = r"SQL_Assessment_Team\data_generation\cus_data.csv"
 headers_customers = ["customer_id", "customer_name", "customer_region"]
 region = ["North", "South", "West", "East"]
 
@@ -31,7 +31,7 @@ with open(customer_file_path, "w", newline="", encoding="utf-8") as f:
         ])
   
 #product file generaton            
-product_file_path = r"data_generation\product_data.csv"
+product_file_path = r"SQL_Assessment_Team\data_generation\product_data.csv"
 headers_products = ["product_id", "product_name", "category"]
 product_names = ["Laptop", "Router", "Server", "Storage", "Switch"]
 product_category_map = {
@@ -59,7 +59,7 @@ with open(product_file_path, "w", newline="", encoding="utf-8") as f:
 
 
 #supplier file generaton
-supplier_file_path = r"data_generation\supplier_data.csv"
+supplier_file_path = r"SQL_Assessment_Team\data_generation\supplier_data.csv"
 headers_suppliers = ["supplier_id", "supplier_name"]
 
 with open(supplier_file_path, "w", newline="", encoding="utf-8") as f:
@@ -77,7 +77,7 @@ with open(supplier_file_path, "w", newline="", encoding="utf-8") as f:
  
  
 #Orders file generaton       
-orders_file_path = r"data_generation\order_data.csv"
+orders_file_path = r"SQL_Assessment_Team\data_generation\order_data.csv"
 headers_orders = ["order_id", "customer_id", "product_id", "order_date", "supplier_id", "order_qty"]
 
 with open(orders_file_path, "w", newline="", encoding="utf-8") as f:
@@ -109,7 +109,7 @@ with open(orders_file_path, "w", newline="", encoding="utf-8") as f:
 
 
 #Shipment file generaton        
-shipment_file_path = r"data_generation\shipment_data.csv"
+shipment_file_path = r"SQL_Assessment_Team\data_generation\shipment_data.csv"
 headers_shipments = ["shipment_id", "order_id", "shipping_date", "delivery_status", "delivery_time_days", "warehouse"]
 status_types = ["Delivered", "Pending", "Delayed"]
 warehouse_types = ["WH-A", "WH-B", "WH-C"]

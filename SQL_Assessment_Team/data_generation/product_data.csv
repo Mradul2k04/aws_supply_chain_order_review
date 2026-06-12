@@ -1,157 +1,157 @@
 product_id,product_name,category
-PRO-00001,Router,Networking Equipment
-PRO-00002,Server,Computing & Storage
-PRO-00003,Switch,Networking Equipment
-PRO-00004,Storage,Computing & Storage
-PRO-00005,Storage,Computing & Storage
-PRO-00006,Router,Networking Equipment
-PRO-00007,Laptop,Computing & Storage
-PRO-00008,Switch,Networking Equipment
+PRO-00001,Switch,Networking Equipment
+PRO-00002,Storage,Computing & Storage
+PRO-00003,Router,Networking Equipment
+PRO-00004,Switch,Networking Equipment
+PRO-00005,Laptop,Computing & Storage
+PRO-00006,Server,Computing & Storage
+PRO-00007,Router,Networking Equipment
+PRO-00008,Server,Computing & Storage
 PRO-00009,Router,Networking Equipment
-PRO-00010,Switch,Networking Equipment
-PRO-00011,Laptop,Computing & Storage
-PRO-00012,Server,Computing & Storage
-PRO-00013,Router,Networking Equipment
-PRO-00014,Router,Networking Equipment
+PRO-00010,Router,Networking Equipment
+PRO-00011,Server,Computing & Storage
+PRO-00012,Storage,Computing & Storage
+PRO-00013,Server,Computing & Storage
+PRO-00014,Storage,Computing & Storage
 PRO-00015,Storage,Computing & Storage
-PRO-00016,Server,Computing & Storage
-PRO-00017,Router,Networking Equipment
-PRO-00018,Router,Networking Equipment
-PRO-00019,Storage,Computing & Storage
-PRO-00020,Server,Computing & Storage
+PRO-00016,Storage,Computing & Storage
+PRO-00017,Server,Computing & Storage
+PRO-00018,Storage,Computing & Storage
+PRO-00019,Laptop,Computing & Storage
+PRO-00020,Switch,Networking Equipment
 PRO-00021,Storage,Computing & Storage
-PRO-00022,Laptop,Computing & Storage
+PRO-00022,Server,Computing & Storage
 PRO-00023,Switch,Networking Equipment
-PRO-00024,Laptop,Computing & Storage
-PRO-00025,Laptop,Computing & Storage
+PRO-00024,Server,Computing & Storage
+PRO-00025,Switch,Networking Equipment
 PRO-00026,Router,Networking Equipment
 PRO-00027,Laptop,Computing & Storage
 PRO-00028,Storage,Computing & Storage
-PRO-00029,Laptop,Computing & Storage
+PRO-00029,Storage,Computing & Storage
 PRO-00030,Server,Computing & Storage
-PRO-00031,Router,Networking Equipment
-PRO-00032,Router,Networking Equipment
-PRO-00033,Laptop,Computing & Storage
-PRO-00034,Server,Computing & Storage
-PRO-00035,Storage,Computing & Storage
-PRO-00036,Switch,Networking Equipment
-PRO-00037,Switch,Networking Equipment
-PRO-00038,Switch,Networking Equipment
-PRO-00039,Switch,Networking Equipment
-PRO-00040,Switch,Networking Equipment
-PRO-00041,Storage,Computing & Storage
-PRO-00042,Laptop,Computing & Storage
-PRO-00043,Laptop,Computing & Storage
-PRO-00044,Switch,Networking Equipment
-PRO-00045,Switch,Networking Equipment
+PRO-00031,Storage,Computing & Storage
+PRO-00032,Storage,Computing & Storage
+PRO-00033,Storage,Computing & Storage
+PRO-00034,Storage,Computing & Storage
+PRO-00035,Laptop,Computing & Storage
+PRO-00036,Server,Computing & Storage
+PRO-00037,Router,Networking Equipment
+PRO-00038,Router,Networking Equipment
+PRO-00039,Router,Networking Equipment
+PRO-00040,Router,Networking Equipment
+PRO-00041,Switch,Networking Equipment
+PRO-00042,Router,Networking Equipment
+PRO-00043,Switch,Networking Equipment
+PRO-00044,Router,Networking Equipment
+PRO-00045,Laptop,Computing & Storage
 PRO-00046,Switch,Networking Equipment
-PRO-00047,Storage,Computing & Storage
-PRO-00048,Router,Networking Equipment
+PRO-00047,Switch,Networking Equipment
+PRO-00048,Storage,Computing & Storage
 PRO-00049,Server,Computing & Storage
-PRO-00050,Server,Computing & Storage
+PRO-00050,Laptop,Computing & Storage
 PRO-00051,Router,Networking Equipment
-PRO-00052,Laptop,Computing & Storage
-PRO-00053,Server,Computing & Storage
-PRO-00054,Router,Networking Equipment
-PRO-00055,Switch,Networking Equipment
-PRO-00056,Laptop,Computing & Storage
-PRO-00057,Switch,Networking Equipment
-PRO-00058,Storage,Computing & Storage
-PRO-00059,Storage,Computing & Storage
-PRO-00060,Router,Networking Equipment
-PRO-00061,Laptop,Computing & Storage
+PRO-00052,Router,Networking Equipment
+PRO-00053,Router,Networking Equipment
+PRO-00054,Server,Computing & Storage
+PRO-00055,Laptop,Computing & Storage
+PRO-00056,Server,Computing & Storage
+PRO-00057,Laptop,Computing & Storage
+PRO-00058,Switch,Networking Equipment
+PRO-00059,Router,Networking Equipment
+PRO-00060,Server,Computing & Storage
+PRO-00061,Storage,Computing & Storage
 PRO-00062,Router,Networking Equipment
-PRO-00063,Storage,Computing & Storage
-PRO-00064,Switch,Networking Equipment
-PRO-00065,Switch,Networking Equipment
-PRO-00066,Switch,Networking Equipment
-PRO-00067,Server,Computing & Storage
-PRO-00068,Server,Computing & Storage
-PRO-00069,Storage,Computing & Storage
+PRO-00063,Laptop,Computing & Storage
+PRO-00064,Laptop,Computing & Storage
+PRO-00065,Server,Computing & Storage
+PRO-00066,Router,Networking Equipment
+PRO-00067,Storage,Computing & Storage
+PRO-00068,Laptop,Computing & Storage
+PRO-00069,Switch,Networking Equipment
 PRO-00070,Router,Networking Equipment
-PRO-00071,Laptop,Computing & Storage
+PRO-00071,Server,Computing & Storage
 PRO-00072,Switch,Networking Equipment
 PRO-00073,Switch,Networking Equipment
-PRO-00074,Switch,Networking Equipment
-PRO-00075,Laptop,Computing & Storage
+PRO-00074,Laptop,Computing & Storage
+PRO-00075,Switch,Networking Equipment
 PRO-00076,Storage,Computing & Storage
-PRO-00077,Router,Networking Equipment
-PRO-00078,Storage,Computing & Storage
+PRO-00077,Switch,Networking Equipment
+PRO-00078,Switch,Networking Equipment
 PRO-00079,Router,Networking Equipment
-PRO-00080,Router,Networking Equipment
-PRO-00081,Laptop,Computing & Storage
+PRO-00080,Storage,Computing & Storage
+PRO-00081,Server,Computing & Storage
 PRO-00082,Router,Networking Equipment
-PRO-00083,Server,Computing & Storage
-PRO-00084,Switch,Networking Equipment
-PRO-00085,Laptop,Computing & Storage
-PRO-00086,Router,Networking Equipment
-PRO-00087,Switch,Networking Equipment
-PRO-00088,Server,Computing & Storage
-PRO-00089,Server,Computing & Storage
-PRO-00090,Storage,Computing & Storage
-PRO-00091,Storage,Computing & Storage
-PRO-00092,Router,Networking Equipment
-PRO-00093,Switch,Networking Equipment
+PRO-00083,Switch,Networking Equipment
+PRO-00084,Server,Computing & Storage
+PRO-00085,Storage,Computing & Storage
+PRO-00086,Laptop,Computing & Storage
+PRO-00087,Server,Computing & Storage
+PRO-00088,Laptop,Computing & Storage
+PRO-00089,Switch,Networking Equipment
+PRO-00090,Router,Networking Equipment
+PRO-00091,Switch,Networking Equipment
+PRO-00092,Switch,Networking Equipment
+PRO-00093,Laptop,Computing & Storage
 PRO-00094,Router,Networking Equipment
-PRO-00095,Switch,Networking Equipment
-PRO-00096,Router,Networking Equipment
-PRO-00097,Router,Networking Equipment
-PRO-00098,Switch,Networking Equipment
+PRO-00095,Storage,Computing & Storage
+PRO-00096,Laptop,Computing & Storage
+PRO-00097,Switch,Networking Equipment
+PRO-00098,Server,Computing & Storage
 PRO-00099,Storage,Computing & Storage
 PRO-00100,Storage,Computing & Storage
-PRO-00101,Server,Computing & Storage
+PRO-00101,Storage,Computing & Storage
 PRO-00102,Server,Computing & Storage
-PRO-00103,Laptop,Computing & Storage
-PRO-00104,Storage,Computing & Storage
-PRO-00105,Router,Networking Equipment
-PRO-00106,Router,Networking Equipment
-PRO-00107,Switch,Networking Equipment
-PRO-00108,Server,Computing & Storage
+PRO-00103,Storage,Computing & Storage
+PRO-00104,Switch,Networking Equipment
+PRO-00105,Storage,Computing & Storage
+PRO-00106,Laptop,Computing & Storage
+PRO-00107,Router,Networking Equipment
+PRO-00108,Switch,Networking Equipment
 PRO-00109,Laptop,Computing & Storage
-PRO-00110,Router,Networking Equipment
+PRO-00110,Switch,Networking Equipment
 PRO-00111,Laptop,Computing & Storage
-PRO-00112,Switch,Networking Equipment
-PRO-00113,Server,Computing & Storage
-PRO-00114,Switch,Networking Equipment
-PRO-00115,Storage,Computing & Storage
+PRO-00112,Server,Computing & Storage
+PRO-00113,Storage,Computing & Storage
+PRO-00114,Storage,Computing & Storage
+PRO-00115,Router,Networking Equipment
 PRO-00116,Switch,Networking Equipment
-PRO-00117,Laptop,Computing & Storage
-PRO-00118,Storage,Computing & Storage
-PRO-00119,Router,Networking Equipment
-PRO-00120,Switch,Networking Equipment
-PRO-00121,Router,Networking Equipment
-PRO-00122,Server,Computing & Storage
-PRO-00123,Storage,Computing & Storage
+PRO-00117,Server,Computing & Storage
+PRO-00118,Router,Networking Equipment
+PRO-00119,Server,Computing & Storage
+PRO-00120,Storage,Computing & Storage
+PRO-00121,Laptop,Computing & Storage
+PRO-00122,Switch,Networking Equipment
+PRO-00123,Switch,Networking Equipment
 PRO-00124,Storage,Computing & Storage
 PRO-00125,Router,Networking Equipment
-PRO-00126,Storage,Computing & Storage
-PRO-00127,Laptop,Computing & Storage
-PRO-00128,Laptop,Computing & Storage
-PRO-00129,Storage,Computing & Storage
-PRO-00130,Storage,Computing & Storage
-PRO-00131,Switch,Networking Equipment
-PRO-00132,Switch,Networking Equipment
-PRO-00133,Router,Networking Equipment
+PRO-00126,Router,Networking Equipment
+PRO-00127,Router,Networking Equipment
+PRO-00128,Storage,Computing & Storage
+PRO-00129,Server,Computing & Storage
+PRO-00130,Laptop,Computing & Storage
+PRO-00131,Server,Computing & Storage
+PRO-00132,Storage,Computing & Storage
+PRO-00133,Server,Computing & Storage
 PRO-00134,Router,Networking Equipment
-PRO-00135,Switch,Networking Equipment
-PRO-00136,Laptop,Computing & Storage
-PRO-00137,Server,Computing & Storage
+PRO-00135,Laptop,Computing & Storage
+PRO-00136,Storage,Computing & Storage
+PRO-00137,Switch,Networking Equipment
 PRO-00138,Laptop,Computing & Storage
-PRO-00139,Switch,Networking Equipment
-PRO-00140,Laptop,Computing & Storage
-PRO-00141,Switch,Networking Equipment
-PRO-00142,Switch,Networking Equipment
-PRO-00143,Server,Computing & Storage
-PRO-00144,Server,Computing & Storage
-PRO-00145,Server,Computing & Storage
-PRO-00146,Router,Networking Equipment
-PRO-00147,Storage,Computing & Storage
-PRO-00148,Laptop,Computing & Storage
-PRO-00149,Switch,Networking Equipment
-PRO-00150,Storage,Computing & Storage
-PRO-00151,Laptop,Computing & Storage
+PRO-00139,Laptop,Computing & Storage
+PRO-00140,Switch,Networking Equipment
+PRO-00141,Storage,Computing & Storage
+PRO-00142,Server,Computing & Storage
+PRO-00143,Laptop,Computing & Storage
+PRO-00144,Router,Networking Equipment
+PRO-00145,Storage,Computing & Storage
+PRO-00146,Switch,Networking Equipment
+PRO-00147,Server,Computing & Storage
+PRO-00148,Switch,Networking Equipment
+PRO-00149,Server,Computing & Storage
+PRO-00150,Laptop,Computing & Storage
+PRO-00151,Server,Computing & Storage
 PRO-00152,Switch,Networking Equipment
-PRO-00153,Server,Computing & Storage
-PRO-00154,Router,Networking Equipment
-PRO-00155,Storage,Computing & Storage
-PRO-00156,Switch,Networking Equipment
+PRO-00153,Router,Networking Equipment
+PRO-00154,Server,Computing & Storage
+PRO-00155,Server,Computing & Storage
+PRO-00156,Storage,Computing & Storage
