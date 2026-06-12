@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from database import engine, get_db
-import orm_models
+from SQL_Assessment_Team.sqlalchemy.database import engine, get_db
+import SQL_Assessment_Team.sqlalchemy.orm_models as orm_models
 
 from router import router
 
