@@ -1,0 +1,1 @@
+CREATE DATABASE Supply_Chain_Management
