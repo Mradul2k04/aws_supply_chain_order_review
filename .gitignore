@@ -1,0 +1,7 @@
+clean_env/
+myenv/
+myenv312/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
