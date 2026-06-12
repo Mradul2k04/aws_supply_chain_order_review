@@ -19,7 +19,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
---update triger after table insert
+--update trigger after table insert
 CREATE TRIGGER trg_log_new_order
 AFTER INSERT ON orders
 FOR EACH ROW
